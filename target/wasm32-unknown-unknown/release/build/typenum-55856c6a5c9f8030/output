@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/wasm32-unknown-unknown/release/build/typenum-55856c6a5c9f8030/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/wasm32-unknown-unknown/release/build/typenum-55856c6a5c9f8030/out/op.rs

@@ -1,0 +1,1 @@
+24264661f84f5bfb1686fdcd7a0c2fe52a6d8773cbee3bf813e7582cbe830983  ./target/wasm32-unknown-unknown/release/basic_sale_contract.wasm

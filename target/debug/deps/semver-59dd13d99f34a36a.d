@@ -1,0 +1,12 @@
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/debug/deps/semver-59dd13d99f34a36a.rmeta: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs
+
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/debug/deps/semver-59dd13d99f34a36a.d: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs
+
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs:

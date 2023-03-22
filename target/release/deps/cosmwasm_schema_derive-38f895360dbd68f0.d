@@ -1,0 +1,9 @@
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/release/deps/libcosmwasm_schema_derive-38f895360dbd68f0.so: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/cw_serde.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/generate_api.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses/context.rs
+
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/release/deps/cosmwasm_schema_derive-38f895360dbd68f0.d: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/cw_serde.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/generate_api.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses/context.rs
+
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/lib.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/cw_serde.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/generate_api.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-derive-1.2.1/src/query_responses/context.rs:

@@ -1,0 +1,12 @@
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/debug/deps/digest-1fdc63449a6f01c6.rmeta: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/mac.rs
+
+/home/edo/Code/cosmwasm-stuff/basic_sale_contract/target/debug/deps/digest-1fdc63449a6f01c6.d: /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs /home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/mac.rs
+
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs:
+/home/edo/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/mac.rs:

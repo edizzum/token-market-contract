@@ -1,0 +1,1 @@
+040fcbca9c5cb2bf6dcec0c952a876b9cdaff383a40fcdbaf73b00d585328d8c  basic_sale_contract.wasm
