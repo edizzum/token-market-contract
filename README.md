@@ -1,2 +1,2 @@
-##Token Market Contract
-*This is a basic sale contract.
+## Token Market Contract
+-> This is a basic sale contract.
